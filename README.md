@@ -7,18 +7,6 @@ An embedded microcontroller-based arcade and learning game designed for the ATme
 
 ---
 
-## Table of Contents
-- [Project Overview](#-project-overview)
-- [Key Features](#-key-features)
-- [Hardware Components](#-hardware-components)
-- [Software & Libraries](#-software--libraries)
-- [System Architecture & Complexity](#-system-architecture--complexity)
-- [User Guide & Controls](#-user-guide--controls)
-- [Known Issues & Troubleshooting](#-known-issues--troubleshooting)
-- [Project Metadata](#-project-metadata)
-
----
-
 ## Project Overview
 
 Morse Code Mania offers two interactive gameplay modes:
