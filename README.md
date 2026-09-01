@@ -1,9 +1,11 @@
 # Morse Code Mania
 
-[![Embedded C](https://img.shields.io/badge/Language-Embedded%20C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Hardware](https://img.shields.io/badge/Microcontroller-ATmega328P%2FArduino%20Uno-red.svg)](https://www.microchip.com/)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino)
 
-An embedded microcontroller-based arcade and learning game designed for the ATmega328P / Elegoo UNO R3 platform. **Morse Code Mania** features dual display outputs, custom graphics scaling, handshaked multi-tasking state machines, interactive sound, and multiple gameplay modes to teach and test Morse code proficiency in real time.
+**Demo Link**: https://www.youtube.com/watch?v=a2vPrjBrxrs
+
+An embedded microcontroller-based arcade and learning game designed for the ATmega328P / Elegoo UNO R3 platform. Morse Code Mania features dual display outputs, custom graphics scaling, handshaked multi-tasking state machines, interactive sound, and multiple gameplay modes to teach and test Morse code proficiency in real time.
 
 ---
 
