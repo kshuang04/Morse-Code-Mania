@@ -1,21 +1,3 @@
-/*        Your Name & E-mail: Sky Huang (shuan284@ucr.edu)
-
- *         Discussion Section: 021 (Wed 2pm)
-
- *         Assignment: Custom Lab Final Demo
-
- *         Exercise Description: Morse Code Mania
-
- *        
-
- *         I acknowledge all content contained herein, excluding template or example code, is my own original work.
-
- *
-
- *         Demo Link: https://www.youtube.com/watch?v=a2vPrjBrxrs
-
- */
-
 #include "timerISR.h"
 #include "helper.h"
 #include "periph.h"
